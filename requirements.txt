@@ -1,0 +1,8 @@
+nodejs 8.X >
+
+-> Angular
+npm install -g @angular/cli
+
+npm install -g firebase-tools
+
+Python 3.5.X >
